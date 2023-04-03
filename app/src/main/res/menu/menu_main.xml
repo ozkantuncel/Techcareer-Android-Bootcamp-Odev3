@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.odev3.ui.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/basket_picture"
+        android:title="Basket"
+        app:showAsAction="always" />
+</menu>

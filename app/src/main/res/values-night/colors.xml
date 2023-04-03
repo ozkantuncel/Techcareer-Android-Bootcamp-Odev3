@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="black">#FFFFFFFF</color>
+    <color name="white">#FF000000</color>
+    <color name="chipGray">#2B2B2B</color>
+    <color name="chipTextPress">#8BC34A</color>
+    <color name="starColor">#E8E805</color>
+    <color name="heartColorOn">#FF4081</color>
+    <color name="heartColorOff">#E0E0E0</color> -->
+
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF000000</color>
+    <color name="chipGray">#2B2B2B</color>
+    <color name="chipTextPress">#7C9164</color>
+    <color name="starColor">#A7AE00</color>
+    <color name="heartColorOn">#FF6B81</color>
+    <color name="heartColorOff">#BDC3C7</color>
+</resources>

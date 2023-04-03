@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_1"
+        android:enabled="true"
+        android:icon="@drawable/home_pic"
+        android:iconTint="@color/heartColorOff"
+        android:title=""
+         />
+    <item
+        android:id="@+id/page_2"
+        android:enabled="true"
+        android:icon="@drawable/heart_ico"
+        android:iconTint="@color/heartColorOff"
+        android:title=""/>
+    <item
+        android:id="@+id/page_3"
+        android:enabled="true"
+        android:icon="@drawable/per_ico"
+        android:iconTint="@color/heartColorOff"
+        android:title=""/>
+</menu>
